@@ -1,0 +1,18 @@
+table {
+    border: 2px solid black;
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+th {
+    width: max-content;
+    background-color: rgb(214, 212, 212);
+}
+
+td {
+    font-size: 14px;
+}
+
+.tabelaButton{
+    width: max-content;
+}

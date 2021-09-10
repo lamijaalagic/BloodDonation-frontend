@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c49fb37d.chunk.css",
+    "main.js": "/static/js/main.761b254c.chunk.js",
+    "main.js.map": "/static/js/main.761b254c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.25dddfc1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.25dddfc1.js.map",
+    "static/js/2.f06f0932.chunk.js": "/static/js/2.f06f0932.chunk.js",
+    "static/js/2.f06f0932.chunk.js.map": "/static/js/2.f06f0932.chunk.js.map",
+    "static/js/3.bffac0c3.chunk.js": "/static/js/3.bffac0c3.chunk.js",
+    "static/js/3.bffac0c3.chunk.js.map": "/static/js/3.bffac0c3.chunk.js.map",
+    "static/js/4.498f78e7.chunk.js": "/static/js/4.498f78e7.chunk.js",
+    "static/js/4.498f78e7.chunk.js.map": "/static/js/4.498f78e7.chunk.js.map",
+    "static/js/5.3f74149b.chunk.js": "/static/js/5.3f74149b.chunk.js",
+    "static/js/5.3f74149b.chunk.js.map": "/static/js/5.3f74149b.chunk.js.map",
+    "static/js/6.5125fcce.chunk.js": "/static/js/6.5125fcce.chunk.js",
+    "static/js/6.5125fcce.chunk.js.map": "/static/js/6.5125fcce.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c49fb37d.chunk.css.map": "/static/css/main.c49fb37d.chunk.css.map",
+    "static/js/2.f06f0932.chunk.js.LICENSE.txt": "/static/js/2.f06f0932.chunk.js.LICENSE.txt",
+    "static/js/3.bffac0c3.chunk.js.LICENSE.txt": "/static/js/3.bffac0c3.chunk.js.LICENSE.txt",
+    "static/js/4.498f78e7.chunk.js.LICENSE.txt": "/static/js/4.498f78e7.chunk.js.LICENSE.txt",
+    "static/js/5.3f74149b.chunk.js.LICENSE.txt": "/static/js/5.3f74149b.chunk.js.LICENSE.txt",
+    "static/media/add.a990822d.png": "/static/media/add.a990822d.png",
+    "static/media/crvena_kap.c2450f98.png": "/static/media/crvena_kap.c2450f98.png",
+    "static/media/find.17b4fccc.png": "/static/media/find.17b4fccc.png",
+    "static/media/show_details.01e6dedc.png": "/static/media/show_details.01e6dedc.png",
+    "static/media/tabela_KG.7912f727.png": "/static/media/tabela_KG.7912f727.png",
+    "static/media/user-add-icon.8d64a663.png": "/static/media/user-add-icon.8d64a663.png",
+    "static/media/user.58de24df.png": "/static/media/user.58de24df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25dddfc1.js",
+    "static/js/3.bffac0c3.chunk.js",
+    "static/css/main.c49fb37d.chunk.css",
+    "static/js/main.761b254c.chunk.js"
+  ]
+}
