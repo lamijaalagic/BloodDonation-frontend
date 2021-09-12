@@ -42,7 +42,7 @@
 
 .sredina{
     float: left;
-    width: auto;
+    max-width: 600px;
     text-align: left;
     padding: 1.2em;
     margin: 20pt;
@@ -83,7 +83,7 @@
   }
 
   .img {
-      width: 650px;
+      width: 600px;
   }
 
 .ListaButtona{
